@@ -4,8 +4,21 @@ A aplicação por nós desenvolvida visa tornar acessível o consumo e informaç
 
 ### Produto:
 
-![Image 1](images/1.png) ![Image 2](images/2.png) ![Image 3](images/3.png)
-![Image 4](images/4.png) ![Image 5](images/5.png) ![Image 6](images/6.png)
+<p>
+  <img src="images/1.png" width="80%" />
+</p>
+<p>
+  <img src="images/2.png" width="80%" />
+</p>
+<p>
+  <img src="images/3.png" width="80%" />
+</p>
+
+<p float="left">
+  <img src="images/4.png" width="30%" />
+  <img src="images/5.png" width="30%" /> 
+  <img src="images/6.png" width="30%" />
+</p>
 
 ### O funcionamento da nossa aplicação é o seguinte:
 
